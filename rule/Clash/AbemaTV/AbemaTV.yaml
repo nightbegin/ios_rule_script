@@ -23,3 +23,6 @@ payload:
   - DOMAIN-SUFFIX,hayabusa.media
   - DOMAIN-SUFFIX,winticket.jp
   - DOMAIN-KEYWORD,abematv.akamaized.net
+  - DOMAIN-SUFFIX,yahoo.co.jp
+  - DOMAIN-SUFFIX,yimg.jp
+  - DOMAIN-SUFFIX,dmm.co.jp
