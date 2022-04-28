@@ -1,4 +1,5 @@
 # NAME: JP
 
 payload:
+  - DOMAIN-SUFFIX,chibits.co
   - DOMAIN-SUFFIX,jp
