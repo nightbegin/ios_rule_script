@@ -1,3 +1,5 @@
 payload:
   - DOMAIN-SUFFIX,dnsleaktest.com
   - DOMAIN-SUFFIX,xpressunblock.com
+  - DOMAIN-SUFFIX,surfsharkdns.com
+  - DOMAIN-SUFFIX,browserleaks.org
