@@ -1,0 +1,11 @@
+{
+  "listen": ":36612",
+  "protocol":"wechat-video",
+  "cert": "/etc/hysteria/ssl/fullchain.pem",
+  "key": "/etc/hysteria/ssl/privkey.pem",
+  "obfs": "masumoto",
+  "auth_str": "aac007",
+  "alpn": "h3",
+  "up_mbps": 100,
+  "down_mbps": 100
+}
