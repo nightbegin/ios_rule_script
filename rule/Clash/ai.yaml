@@ -1,0 +1,8 @@
+payload:
+  - DOMAIN-SUFFIX,sydney.bing.com
+  - DOMAIN-SUFFIX,quora.com
+  - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,poecdn.net
+  - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN,o1158394.ingest.us.sentry.io #claude
+  - DOMAIN,o4504136533147648.ingest.sentry.io #pplx
